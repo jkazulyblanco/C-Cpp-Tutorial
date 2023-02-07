@@ -1,0 +1,7 @@
+# Ignore all intermediates and binary files
+*.exe
+*.obj
+
+# folders
+/01*
+/02*
