@@ -3,5 +3,11 @@
 *.obj
 
 # folders
+/.vs
+/build
 /01*
 /02*
+/03*
+
+
+
